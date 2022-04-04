@@ -13,7 +13,7 @@ class Category {
 List<Category> demoCategories = [
     Category(
       id: 1,
-      name: 'Foods',
+      name: 'Healthy Food',
       icon: 'assets/icons/food.svg'
     ),
     Category(
